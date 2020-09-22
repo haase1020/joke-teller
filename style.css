@@ -1,4 +1,3 @@
-/* ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY */
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@200&display=swap');
 
 html {
@@ -7,7 +6,7 @@ html {
 
 body {
   margin: 0;
-  background: #45badd;
+  background: #d38598;
 }
 
 .container {
@@ -17,9 +16,9 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: url('./robot.gif');
+  background: url('https://media.giphy.com/media/WoKQceLuR2VLPJdtBU/giphy.gif');
   background-size: contain;
-  background-position: left center;
+  background-position: center center;
   background-repeat: no-repeat;
 }
 
@@ -31,7 +30,7 @@ button {
   font-family: 'Grandstander', sans-serif;
   font-size: 30px;
   color: #fff;
-  background: rgb(0, 7, 15);
+  background: rgb(71, 71, 69);
   border: none;
   border-radius: 20px;
   margin-top: 20px;
